@@ -1,1 +1,0 @@
-import{t as e}from"./index-mn0Zk_js.js";var t=e();function n(){return(0,t.jsx)(`footer`,{children:(0,t.jsx)(`p`,{children:`© 2026 Yash Padwal. All Rights Reserved.`})})}export{n as default};
