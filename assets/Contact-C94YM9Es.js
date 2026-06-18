@@ -1,1 +1,0 @@
-import{t as e}from"./index-CGeLTAD0.js";var t=e();function n(){return(0,t.jsxs)(`section`,{className:`contact`,id:`contact`,children:[(0,t.jsx)(`h2`,{children:`Contact Me`}),(0,t.jsx)(`p`,{children:`Email: padwalyash802@gmail.com`}),(0,t.jsx)(`p`,{children:`Phone: +91 9309238937`}),(0,t.jsx)(`p`,{children:`GitHub: github.com/padwalyash682-star`})]})}export{n as default};
